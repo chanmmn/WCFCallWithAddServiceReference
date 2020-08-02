@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "olugwHESqVgNWEU4R4JnMD1CzD2XEbgNS9yUj1yGADxxlTPQb77yOR5A7riPCOcOUmiybxVN8SglrBmBxf/WOQ==",
+  "success": true,
+  "projectFilePath": "C:\\test\\WCF\\ConAppWCFNoProxyClient\\ConAppWCFNoProxyClient\\ConAppWCFNoProxyClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\system.private.servicemodel\\4.7.0\\system.private.servicemodel.4.7.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.reflection.dispatchproxy\\4.5.0\\system.reflection.dispatchproxy.4.5.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.security.cryptography.xml\\4.5.0\\system.security.cryptography.xml.4.5.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

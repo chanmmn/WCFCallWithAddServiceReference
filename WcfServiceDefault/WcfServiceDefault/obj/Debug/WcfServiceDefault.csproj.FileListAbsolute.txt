@@ -1,0 +1,7 @@
+C:\test\WCF\WcfServiceDefault\WcfServiceDefault\bin\WcfServiceDefault.dll.config
+C:\test\WCF\WcfServiceDefault\WcfServiceDefault\bin\WcfServiceDefault.dll
+C:\test\WCF\WcfServiceDefault\WcfServiceDefault\bin\WcfServiceDefault.pdb
+C:\test\WCF\WcfServiceDefault\WcfServiceDefault\obj\Debug\WcfServiceDefault.csprojAssemblyReference.cache
+C:\test\WCF\WcfServiceDefault\WcfServiceDefault\obj\Debug\WcfServiceDefault.csproj.CoreCompileInputs.cache
+C:\test\WCF\WcfServiceDefault\WcfServiceDefault\obj\Debug\WcfServiceDefault.dll
+C:\test\WCF\WcfServiceDefault\WcfServiceDefault\obj\Debug\WcfServiceDefault.pdb

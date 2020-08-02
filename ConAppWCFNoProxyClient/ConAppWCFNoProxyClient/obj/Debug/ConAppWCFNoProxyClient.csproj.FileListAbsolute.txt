@@ -1,0 +1,15 @@
+C:\test\WCF\ConAppWCFNoProxyClient\ConAppWCFNoProxyClient\bin\Debug\ConAppWCFNoProxyClient.exe.config
+C:\test\WCF\ConAppWCFNoProxyClient\ConAppWCFNoProxyClient\bin\Debug\ConAppWCFNoProxyClient.exe
+C:\test\WCF\ConAppWCFNoProxyClient\ConAppWCFNoProxyClient\bin\Debug\ConAppWCFNoProxyClient.pdb
+C:\test\WCF\ConAppWCFNoProxyClient\ConAppWCFNoProxyClient\bin\Debug\System.Private.ServiceModel.dll
+C:\test\WCF\ConAppWCFNoProxyClient\ConAppWCFNoProxyClient\bin\Debug\System.Private.ServiceModel.pdb
+C:\test\WCF\ConAppWCFNoProxyClient\ConAppWCFNoProxyClient\bin\Debug\System.Reflection.DispatchProxy.dll
+C:\test\WCF\ConAppWCFNoProxyClient\ConAppWCFNoProxyClient\bin\Debug\System.Security.AccessControl.dll
+C:\test\WCF\ConAppWCFNoProxyClient\ConAppWCFNoProxyClient\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\test\WCF\ConAppWCFNoProxyClient\ConAppWCFNoProxyClient\bin\Debug\System.Security.Permissions.dll
+C:\test\WCF\ConAppWCFNoProxyClient\ConAppWCFNoProxyClient\bin\Debug\System.Security.Principal.Windows.dll
+C:\test\WCF\ConAppWCFNoProxyClient\ConAppWCFNoProxyClient\obj\Debug\ConAppWCFNoProxyClient.csprojAssemblyReference.cache
+C:\test\WCF\ConAppWCFNoProxyClient\ConAppWCFNoProxyClient\obj\Debug\ConAppWCFNoProxyClient.csproj.CoreCompileInputs.cache
+C:\test\WCF\ConAppWCFNoProxyClient\ConAppWCFNoProxyClient\obj\Debug\ConAppWCFNoProxyClient.csproj.CopyComplete
+C:\test\WCF\ConAppWCFNoProxyClient\ConAppWCFNoProxyClient\obj\Debug\ConAppWCFNoProxyClient.exe
+C:\test\WCF\ConAppWCFNoProxyClient\ConAppWCFNoProxyClient\obj\Debug\ConAppWCFNoProxyClient.pdb
